@@ -1,21 +1,3 @@
-# README
-
-Clone, or download ZIP
-
-Bundle install
-
-Yarn install
-
-In terminal, line by line:
-
-echo "gem 'rspec-rails', group: [ :test ]" >> Gemfile
-echo "gem 'rails-controller-testing', group: [ :test ]" >> Gemfile
-bundle install
-git submodule add git@github.com:lewagon/fullstack-challenges-03-Rails-restaurant-reviews-specs.git spec
-git add .
-git commit -m "Prepare rails app with external specs"
-
-
 ## Setup
 
 Ensure you have bootstrap and it's dependencies
